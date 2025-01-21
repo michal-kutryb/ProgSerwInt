@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tournament_matchmaker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tournament_matchmaker.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
